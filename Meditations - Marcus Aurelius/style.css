@@ -1,0 +1,214 @@
+.aboutauthor {
+    display: block;
+    text-align: left
+    }
+.also {
+    display: block;
+    padding-top: 5%;
+    text-align: left
+    }
+.author {
+    display: list-item;
+    font-weight: bolder;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.body {
+    display: block
+    }
+.calibre {
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    oeb-column-number: 1;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre1 {
+    height: auto;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    padding-top: 15%;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre6 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1em
+    }
+.calibre7 {
+    color: #000;
+    text-decoration: none
+    }
+.calibre8 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.calibre9 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre10 {
+    display: list-item;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 5px
+    }
+.calibre11 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre12 {
+    font-style: italic
+    }
+.calibre13 {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.calibre14 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre15 {
+    display: block;
+    text-align: center
+    }
+.infos {
+    display: block;
+    font-size: 0.75em;
+    padding-top: 15%
+    }
+.logo {
+    display: block;
+    padding-top: 2%;
+    text-align: left
+    }
+.logo1 {
+    display: block;
+    padding-top: 30%;
+    text-align: center
+    }
+.section_title {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.similar {
+    display: block;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.texttitle {
+    display: block;
+    font-size: 1em;
+    text-align: center
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+

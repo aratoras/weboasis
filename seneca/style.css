@@ -1,0 +1,360 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.calibre {
+    background: #222222;
+    color: #c9c9c9;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.29167em;
+    line-height: 1.6;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    overflow-x: hidden;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.54839em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.75em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    page-break-inside: avoid
+    }
+.calibre3 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    font-style: italic
+    }
+.calibre6 {
+    text-decoration: none
+    }
+.calibre7 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre8 {
+    display: list-item;
+    font-size: 0.77419em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em
+    }
+.calibre9 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre10 {
+    display: list-item;
+    font-size: 0.83333em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em
+    }
+.calibre11 {
+    display: block;
+    font-size: 0.77419em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em
+    }
+.calibre12 {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: inherit;
+    vertical-align: top;
+    width: 48px
+    }
+.calibre13 {
+    clear: both;
+    display: block;
+    height: 48px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-height: 100%;
+    max-width: 100%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-inside: avoid;
+    width: 48px
+    }
+.calibre14 {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: inherit;
+    vertical-align: top;
+    width: 100%
+    }
+.calibre15 {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    text-align: inherit;
+    vertical-align: top
+    }
+.calibre16 {
+    clear: both;
+    display: block;
+    height: 48px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-height: 100%;
+    max-width: 100%;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-inside: avoid;
+    width: 92px
+    }
+.calibre17 {
+    display: block;
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em
+    }
+.calibre18 {
+    display: block;
+    margin-left: 40px
+    }
+.calibre19 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre20 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.75em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    page-break-after: avoid;
+    page-break-inside: avoid
+    }
+.calibre21 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em
+    }
+.calibre22 {
+    display: block;
+    page-break-after: always
+    }
+.gen_header_backlink {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: top
+    }
+.header_notes {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-collapse: collapse;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-spacing: 0;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table;
+    float: none;
+    font-size: 0.64516em;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    page-break-inside: avoid;
+    text-indent: 0
+    }
+.headertemplate {
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-collapse: collapse;
+    border-left-color: #ccc;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ccc;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-spacing: 0;
+    border-top-color: #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: table;
+    empty-cells: hide;
+    float: none;
+    font-size: 0.64516em;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    page-break-inside: avoid;
+    text-indent: 0
+    }
+.licenseframe {
+    background-color: #f7f8ff;
+    border-bottom-color: #88A;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-collapse: collapse;
+    border-left-color: #88A;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: #88A;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-spacing: 0;
+    border-top-color: #88A;
+    border-top-style: solid;
+    border-top-width: 2px;
+    clear: both;
+    display: table;
+    empty-cells: hide;
+    float: none;
+    font-size: 0.64516em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    page-break-inside: avoid;
+    text-indent: 0
+    }
+.metainfo {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.mw-headline {
+    line-height: 1.2
+    }
+.reflist {
+    display: block;
+    font-size: 0.64516em;
+    list-style-type: decimal
+    }
+
